@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace GreeterApp
+namespace Greeter
 {
     public class Greeter
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GreeterApp
+namespace Greeter
 {
     class Program
     {

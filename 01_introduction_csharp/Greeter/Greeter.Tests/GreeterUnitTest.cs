@@ -1,8 +1,7 @@
 using System;
 using Xunit;
-using GreeterApp;
 
-namespace xUnitTestsGreeter
+namespace Greeter.Tests
 {
     public class GreeterUnitTest
     {
