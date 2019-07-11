@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace xUnitTestGreeter
+namespace xUnitTestsGreeter
 {
     public class UnitTest1
     {
