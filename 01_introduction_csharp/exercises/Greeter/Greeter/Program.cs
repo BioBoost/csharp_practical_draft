@@ -6,7 +6,8 @@ namespace Greeter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Greeter greeter = new Greeter();
+            Console.WriteLine(greeter.greet());
         }
     }
 }
