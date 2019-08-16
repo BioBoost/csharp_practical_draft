@@ -3,14 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greeter", "Greeter\Greeter.csproj", "{684882F6-D2FF-4620-A992-3F90E5ABEDBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greeter", "Greeter\Greeter.csproj", "{684882F6-D2FF-4620-A992-3F90E5ABEDBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greeter.Tests", "Greeter.Tests\Greeter.Tests.csproj", "{90B7A3EF-F5CF-4364-A55C-DA46BC69054B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greeter.Tests", "Greeter.Tests\Greeter.Tests.csproj", "{90B7A3EF-F5CF-4364-A55C-DA46BC69054B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{19C2B17C-CF16-4A25-8DA6-4C35E8ACC633}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greeter.Solution", "Greeter.Solution\Greeter.Solution.csproj", "{A5F32138-B871-4987-AB35-6E37EA8B1AF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +28,10 @@ Global
 		{90B7A3EF-F5CF-4364-A55C-DA46BC69054B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90B7A3EF-F5CF-4364-A55C-DA46BC69054B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90B7A3EF-F5CF-4364-A55C-DA46BC69054B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F32138-B871-4987-AB35-6E37EA8B1AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F32138-B871-4987-AB35-6E37EA8B1AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F32138-B871-4987-AB35-6E37EA8B1AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F32138-B871-4987-AB35-6E37EA8B1AF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
