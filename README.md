@@ -12,11 +12,15 @@ Requirements (Visual Studio, git)
 
 ## Exercises
 
-Exercises are practical assignments for you to train the new concepts you just learned. Exercises either have Unit Tests to check if your solution is correct or are accompanied with the actual solution so you can check yourself.
+Exercises are practical assignments for you to train the new concepts you just learned. Exercises either have Unit Tests to check if your solution is correct and/or are accompanied with the actual solution so you can check yourself.
 
 ### Running the Unit Tests
 
 Explain here
+
+### Running the solution
+
+Set as startup project and hit run.
 
 ## Challenges
 
